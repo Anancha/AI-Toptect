@@ -7,9 +7,8 @@ numSquares =int(input('And Sir, How many squares?'))
 squareSize = int(boardSize/numSquares)
 
 darkColor=(0,0,0)
-lightColor=(0,0,255)
+lightColor=(255,0,0)
 nowColor=darkColor
-
 
 while True:
     x = np.zeros([boardSize,boardSize,3],dtype=np.uint8)
