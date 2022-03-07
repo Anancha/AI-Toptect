@@ -1,2 +1,2 @@
 # AI-Toptect
-## code fro AI Learning Top tech boy
+## code for AI Learning Top tech boy
