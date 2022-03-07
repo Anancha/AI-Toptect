@@ -1,4 +1,5 @@
-import numpy as np
+
+# Lesson 13 Homework - OpenCV
 import cv2
 print(cv2.__version__)
 hueLow=90
